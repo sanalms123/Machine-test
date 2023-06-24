@@ -1,0 +1,150 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: rgb(220, 230, 238);
+}
+p{
+  margin-top: 0;
+}
+h3{
+  margin-top: 0;
+}
+h2{
+  margin-top: 0;
+}
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.p-70{
+  padding: 60px;
+}
+.fw-700{
+  font-weight: 700;
+}
+.fs-30{
+  font-size: 20px;
+}
+.mb-10{
+  margin-bottom: 10px;
+}
+.mb-5{
+  margin-bottom: 5px;
+}
+.ant-form-vertical {
+  max-width: 80% !important;
+  margin-left: 30px;
+}
+.br-green{
+  background-color: #A3FFD3;
+}
+.mt-5{
+  margin-top: 5px;
+}
+.overFlow-text{
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.bg-white{
+  background-color: white;
+}
+.w-20{
+  width: 20%;
+}
+.h-100vh{
+  height: 100vh;
+}
+.p-10{
+  padding: 10px;
+}
+.br-20{
+  border-radius: 16px;
+}
+
+.card-shadow{
+  box-shadow:0px 18px 88px -4px rgba(24, 39, 75, 0.14), 0px 8px 28px -6px rgba(24, 39, 75, 0.12);
+}
+.mt-20{
+  margin-top: 20px !important;
+}
+.mt-100{
+  margin-top: 100px !important;
+}
+.w-50{
+  width: 50%;
+}
+.text-align-start{
+  text-align: start;
+}
+.flex-wrap{
+  flex-wrap: wrap;
+}
+.w-30{
+  width: 30%;
+}
+.br-5{
+  border-radius: 5px;
+}
+.justify-content-start{
+  justify-content: flex-start;
+}
+.p-20{
+  padding: 20px;
+}
+.br-10{
+  border-radius: 10px;
+}
+.pointer{
+  cursor: pointer;
+}
+.ml-5{
+  margin-left: 5px;
+}
+.justify-content-end{
+  justify-content: flex-end;
+}
+.mb-0{
+  margin-bottom: 0;
+}
+.text-gray{
+  color:#5C6D8E;
+}
+.d-flex{
+  display: flex;
+}
+
+.text-light{
+  color: #C8D8FF;
+}
+.w-60{
+  width: 60%;
+}
+.w-100{
+  width: 100%;
+}
+.justify-content-start{
+  justify-content: flex-start;
+}
+.align-items-start{
+  align-items: start;
+}
+.justify-content-between{
+  justify-content: space-between;
+}
+.flex-col{
+  flex-direction: column;
+}
+.justify-content-center{
+  justify-content: center;
+}
+
+.align-items-center{
+  align-items: center;
+}
