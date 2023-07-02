@@ -9,5 +9,4 @@ export const setContactForm  = async (e) =>fetch('https://jsonplaceholder.typico
 }
 ).then((res)=>{
     return res.json()
-    // console.log("resdata",res);
 })
